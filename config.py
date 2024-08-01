@@ -12,7 +12,7 @@ BOT_TOKEN = "7176466515:AAEQxM29csITPbC9wowec2uHgc9tuf7o7Vg"
 MONGO_DB_URI = "mongodb+srv://sameerkhan223328274:sameerkhan223328274@cluster0.tbzyoh1.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 60))
 LOG_GROUP_ID = -4250217471
-OWNER_ID = 6316548884
+OWNER_ID = 6867099405
 
 ## Fill these variables if you're deploying on heroku.
 # Your heroku app name
